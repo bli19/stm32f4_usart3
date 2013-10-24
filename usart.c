@@ -1,13 +1,6 @@
 /*********************************************
-    标题：操作USART的练习
-    软件平台：IAR for ARM6.21
-    硬件平台：stm32f4-discovery
-    主频：168M
-    
-    描述：从其他设备接收数据，再把数据发送出去
-
-    author：小船
-    data：2012-02-01
+    Get the original code from IAR platform from 小船, but his code does not work for my MDK software, I have to
+    test using individual function.
 **********************************************/
 #include <stm32f4xx.h> 
 
